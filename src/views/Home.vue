@@ -122,4 +122,9 @@ h2#swal2-title {
 
   }
 }
+@media (max-width: 600px) {
+  .home {
+    padding: 0px 12px !important;
+  }
+}
 </style>

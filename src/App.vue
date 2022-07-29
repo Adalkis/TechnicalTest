@@ -48,4 +48,9 @@ nav {
     }
   }
 }
+@media (max-width: 600px) {
+  #app .navBar {
+    padding: 22px 3px;
+  }
+}
 </style>
